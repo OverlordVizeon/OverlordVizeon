@@ -9,8 +9,15 @@ I'm a CS undergraduate, aspiring developer, and project coordinator from Florida
     <td valign="top">
 
 ### 🛠️ Projects and Contributions
-* **OpenNBS:** 
-
+- **OpenNBS**
+  - [OpenNBS](https://opennbs.org/)
+  - [Note Block World](https://noteblock.world/)
+  - OpenNBS Discord server
+- **Note Block SMP**:
+  - [Modrinth server listing](https://modrinth.com/server/nbsmp)
+  - [Note Block SMP Discord server](https://discord.gg/MzCdB8zbKB)
+- **Smithed Summit 2024 & 2026**:
+- **M.A.E.S.T.R.O. Jam**:
     </td>
   </tr>
 </table>
@@ -23,8 +30,9 @@ I'm a CS undergraduate, aspiring developer, and project coordinator from Florida
     <td valign="top">
 
 ### 🎵 Music, Discography, & Creative Work
-* **Note Block Compositions:**
-
+- **Note Block Compositions:**
+  - [My Youtube channel!](https://www.youtube.com/@OverlordVizeon)
+  - [My songs on Note Block World!](https://noteblock.world/search?q=OverlordVizeon)
     </td>
   </tr>
 </table>
