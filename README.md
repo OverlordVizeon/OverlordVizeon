@@ -11,3 +11,7 @@ I'm a CS undergraduate, aspiring developer, and project coordinator from Florida
 
 ## Get in Touch
 <img width="320" height="320" alt="verizonthumbsup" src="https://github.com/user-attachments/assets/ae182dec-f38f-49fd-aed3-6b86251007e4" />
+
+--
+
+Thank you to @rmfandyplayz for these awesome stickers!
